@@ -58,20 +58,7 @@ var color = d3
 
 ]);
 
-/*
-var color = d3
-.scaleThreshold<number, string>()
-.domain([5, 20, 50, 100, 500, 2000, 3000])
-.range([
-  "#E6F4F1",
-  "#B5E6FD",
-  "#8ED6F8",
-  "#5FA9C9",
-  "#2D7E9D",
-  "#005572",
-  "#00304A"
-]);
-*/
+
 
 const updateMap = (data: any[]) => {
 

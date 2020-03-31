@@ -4,7 +4,7 @@ Our boss liked a lot the map we have developed, now he wants to focus on Spain a
 display a map pinning affected locations and scaling that pin according the number of cases affected, something like:
 
 ![map affected coronavirus](./content/chart.png "affected coronavirus")
-
+![] (mandatory.gif)
 codesandbox: https://codesandbox.io/s/hopeful-ellis-rlczx
 
 We have to face three challenges here:

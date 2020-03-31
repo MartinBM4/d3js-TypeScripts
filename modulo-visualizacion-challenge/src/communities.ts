@@ -1,33 +1,33 @@
 export const latLongCommunities = [
   {
     name: "Abruzzo",
-    long: 14.2028303,
-    lat: 42.4584007
+    long: 13.8865503,
+    lat: 42.2131104
   },
   {
     name: "Apulia",
-    long: 15.5518799,
-    lat: 41.4584503
+    long: 16.8518799,
+    lat: 40.9584503
   },
   {
     name: "Basilicata",
-    long: 16.5,
-    lat: 40.5
+    long: 15.9699878,
+    lat: 40.6430766
   },
   {
     name: "Calabria",
-    long: 15.6612902,
-    lat: 38.1104698
+    long: 16.3463791,
+    lat: 39.3087714
   },
   {
     name: "Campania",
-    long: 14.2681103,
-    lat: 39.16667
+    long: 14.5516996,
+    lat: 40.8660812
   },
   {
     name: "Emilia-Romagna",
-    long: 12.20121,
-    lat: 44.4134407
+    long: 11.2186396,
+    lat: 44.5967607
   },
   {
     name: "Friuli-Venezia Giulia",
@@ -41,62 +41,62 @@ export const latLongCommunities = [
   },
   {
     name: "Liguria",
-    long: 8.9443903,
-    lat: 44.4047813
+    long: 8.3964938,
+    lat: 44.3167917
   },
   {
     name: "Lombardia",
-    long: 9.1895103,
-    lat: 45.4642715
+    long: 9.8452433,
+    lat: 45.4790671
   },
   {
     name: "Marche",
-    long: 13.5033703,
-    lat: 43.5942001
+    long: 12.989615,
+    lat: 43.5058744
   },
   {
     name: "Molise",
-    long: 14.4935,
-    lat: 41.6311
+    long: 14.7520939,
+    lat: 41.6738865
   },
   {
     name: "Piemonte",
-    long: 7.5786100,
-    lat: 44.2009100
+    long: 7.5153885,
+    lat: 45.0522366
   },
   {
     name: "Sardegna",
     long: 9.1191702,
-    lat: 39.2305412
+    lat: 40.2305412
   },
   {
     name: "Sicily",
-    long: 13.3356104,
-    lat: 38.1320496
+    long: 14.0153557,
+    lat: 37.5999938
   },
   {
     name: "Toscana",
-    long: 11.2923400,
-    lat: 42.5980200
+    long: 11.2923403,
+    lat: 43.2980186
   },
   {
     name: "Trentino-Alto Adige",
-    long: 11.1210804,
-    lat: 46.0678711
+    long: 11.1693296,
+    lat: 46.4336662
   },
   {
     name: "Umbria",
-    long: 12.3887796,
-    lat: 43.1122017
+    long: 12.6216211,
+    lat: 42.938004
   },
   {
     name: "Valle d'Aosta",
-    long: 7.3205555,
-    lat: 45.7372222
+    long: 7.4261866,
+    lat: 45.7388878
   },
   {
     name: "Veneto",
-    long: 10.8613500,
-    lat: 45.4381600
+    long: 11.80369,
+    lat: 45.7030792
   }
 ];
