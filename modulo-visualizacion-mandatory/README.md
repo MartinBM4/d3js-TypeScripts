@@ -3,8 +3,8 @@
 Our boss liked a lot the map we have developed, now he wants to focus on Spain affection by City, he wants to
 display a map pinning affected locations and scaling that pin according the number of cases affected, something like:
 
-![map affected coronavirus](./content/chart.png "affected coronavirus")
-![] (mandatory.gif)
+![Alt text](https://github.com/MartinBM4/d3js-TypeScripts/blob/master/modulo-visualizacion-mandatory/mandatory.gif)
+
 codesandbox: https://codesandbox.io/s/hopeful-ellis-rlczx
 
 We have to face three challenges here:
