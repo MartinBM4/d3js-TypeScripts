@@ -13,6 +13,7 @@ We have to face three challenges here:
 - Scale pin radius based on affected number.
 - Spain got canary island that is a territory placed far away, we need to cropt that islands and paste them in a visible
   place in the map.
+  -Create buttons to show different data periods.
 
 # Steps
 
