@@ -1,4 +1,4 @@
-# Pinning locations + scale
+# Pinning locations + scale (COVID-19)
 
 Our boss liked a lot the map we have developed, now he wants to focus on Spain affection by City, he wants to
 display a map pinning affected locations and scaling that pin according the number of cases affected, something like:
