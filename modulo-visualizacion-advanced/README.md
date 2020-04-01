@@ -6,4 +6,4 @@ In below map, infected cases are shown by color and circles. With button, it can
 
 # Steps:
 
-- We starting with the example ![d3js-mandatory](https://github.com/MartinBM4/d3js-TypeScripts/tree/master/modulo-visualizacion-mandatory)
+- We starting with the example !["d3js-mandatory"](https://github.com/MartinBM4/d3js-TypeScripts/tree/master/modulo-visualizacion-mandatory)
