@@ -275,7 +275,7 @@ circles
 
 
 
-# Four step:
+# Fourth  step:
 
 - We will add the stats that we need to display (affected persons per community):
 
