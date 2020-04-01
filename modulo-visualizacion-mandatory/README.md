@@ -113,8 +113,7 @@ const aProjection = d3Composite
 - If we run the project (npm start in the console and use chrome with http://localhost:1324), voila ! we got the map just the way we want it.
 
 # Second step:
-- 
-we will put the buttons on the screen to be able to modify the values.
+- We will put the buttons on the screen to be able to modify the values.
 _./src/index.html
 
 ```diff
@@ -129,9 +128,9 @@ _./src/index.html
 You can see in the Localhost (navegator) two buttons at the top left of the sreen.
 
 
-- Now we will write a function to modify the infected values ​​that we have in _./src/stats.ts
+- Now we will write a function in _./src/index.ts to modify the infected values that we have in _./src/stats.ts
   Tips: use the same name as in _./src/stats.ts
-  
+
 ```diff
 document
   .getElementById("initstats")
